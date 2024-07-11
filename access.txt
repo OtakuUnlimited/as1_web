@@ -1,0 +1,5 @@
+homepageurl: https://as1.v.je/index.php
+adminuser: sugen
+adminpass: sugen123
+nonadminuser: b@gmail.com
+nonadminpassword: b
